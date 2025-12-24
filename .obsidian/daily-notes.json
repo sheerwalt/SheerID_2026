@@ -1,0 +1,6 @@
+{
+  "autorun": true,
+  "folder": "ShipsLog",
+  "template": "_templates/daily",
+  "format": "YYYY-MM-DD_ddd"
+}

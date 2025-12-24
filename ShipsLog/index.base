@@ -1,0 +1,23 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("ShipsLog")
+        - file.ext != "base"
+    order:
+      - file.name
+      - who
+      - Focus
+      - location
+      - date
+    sort:
+      - property: date
+        direction: DESC
+      - property: file.mtime
+        direction: DESC
+      - property: formula.Untitled
+        direction: DESC
+    columnSize:
+      note.Focus: 135
+      note.location: 114

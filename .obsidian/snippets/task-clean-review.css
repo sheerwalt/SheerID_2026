@@ -1,0 +1,12 @@
+/* Remove the strikethrough from all completed tasks */
+body {
+    --checklist-done-decoration: none;
+}
+
+/* Optional: Make completed tasks slightly faded instead of struck-through */
+.tasks-list-text.is-checked, 
+.task-list-item.is-checked {
+    color: var(--text-muted);
+    opacity: 0.6;
+}
+
