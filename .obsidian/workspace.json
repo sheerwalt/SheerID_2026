@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "10fb592a77b8d7cf",
+        "id": "053f5f6d1ea11e6a",
         "type": "tabs",
         "children": [
           {
-            "id": "16cf1f8956d42f3f",
+            "id": "7d0f4b88e6095955",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Library/Git PreCommit Hook.md",
+                "file": "ShipsLog/2025-12-23_Tue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git PreCommit Hook"
+              "title": "2025-12-23_Tue"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Library/Git PreCommit Hook.md",
+                "file": "ShipsLog/2025-12-23_Tue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Git PreCommit Hook"
+              "title": "Backlinks for 2025-12-23_Tue"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Library/Git PreCommit Hook.md",
+                "file": "ShipsLog/2025-12-23_Tue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Git PreCommit Hook"
+              "title": "Outgoing links from 2025-12-23_Tue"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Library/Git PreCommit Hook.md",
+                "file": "ShipsLog/2025-12-23_Tue.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Git PreCommit Hook"
+              "title": "Outline of 2025-12-23_Tue"
             }
           }
         ]
@@ -170,39 +170,44 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "a7d23d52dcb9beaa",
+  "active": "7d0f4b88e6095955",
   "lastOpenFiles": [
     "00_Dashboard.md",
+    "ShipsLog/2025-12-23_Tue.md",
+    "ShipsLog/Recurring Things.md",
+    "ShipsLog/index.base",
+    "Library/Public House Coworking.md",
     "Library/Git PreCommit Hook.md",
+    "README.md",
+    "ShipsLog/2025-12-22_Mon.md",
+    "tmp/ShipsLog/2025-12-23_Tue.md",
+    "tmp/00_Dashboard.md",
+    "tmp/README.md",
+    "tmp/Library/Setting up VertexAI in a new folder.md",
+    "tmp/Library/Public House Coworking.md",
+    "tmp/Library/Git PreCommit Hook.md",
+    "tmp/Library",
+    "tmp/_templates/library.md",
+    "tmp/_templates/daily.md",
+    "tmp/_templates",
+    "tmp/_scripts/build_readme.sh",
+    "tmp/_scripts",
+    "tmp/ShipsLog/index.base",
+    "tmp/ShipsLog/Recurring Things.md",
+    "tmp/ShipsLog/2025-12-22_Mon.md",
+    "tmp/ShipsLog",
+    "tmp",
     "_scripts/build_readme.sh",
     "_scripts",
-    "scripts/build_readme.sh",
-    "scripts",
-    "ShipsLog/Recurring Things.md",
-    "ShipsLog/2025-12-22_Mon.md",
-    "ShipsLog/2025-12-23_Tue.md",
     "Janice Weekly.md",
     "_templates/project.md",
-    "ShipsLog/index.base",
     "Library/Setting up VertexAI in a new folder.md",
     "Library/Janice Weekly.md",
-    "Library/Public House Coworking.md",
     "_templates/library.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "_templates/daily.md",
     "().md",
-    "_templates/Daily.md",
-    "Test thing.md",
-    "Library/Library Test.md",
-    "Library/Library_Index.base",
-    "project_docs/Human_Maintenance_Guide.md",
-    "Projects/Project_Tracker.base",
-    "Assets",
-    "Projects/_Archive",
-    "Projects",
-    "project_docs/AI_Collaboration_Protocol.md",
-    "project_docs/2026_Vault_Architecture.md",
-    "Welcome.md"
+    "_templates/Daily.md"
   ]
 }

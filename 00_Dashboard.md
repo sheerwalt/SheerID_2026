@@ -1,35 +1,40 @@
 # Dashboard
 
 ## Recurring
-```tasks
+
+````tasks
 not done
 tags include #recurring
 preset hide_all_but_basics
-```
+````
 
 ## To Schedule
-```tasks
+
+````tasks
 not done
 tags include #schedule
 short mode
-```
+````
 
 ## Tracking
-```tasks
+
+````tasks
 not done
 tags include #tracking 
 short mode
-```
+````
 
 ## Projects
-```tasks
+
+````tasks
 not done
 tags include #project 
 short mode
-```
+````
 
 ## Open Tasks
-```tasks
+
+````tasks
 not done
 path does not include _templates
 tags do not include #schedule
@@ -38,19 +43,22 @@ tags do not include #project
 tags do not include #recurring
 short mode
 group by priority
-```
+````
 
 ## What did I do **this week**?
-```tasks
+
+````tasks
 done this week
 path does not include _templates
 short mode
-```
+````
 
 ## What did I do **last week**?
-```tasks
+
+````tasks
 done last week
 path does not include _templates
-```
+````
 
 ## Open Ideas
+
