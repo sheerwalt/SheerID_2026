@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ShipsLog/2025-12-23_Tue.md",
+                "file": "ShipsLog/2026-01-05_Mon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-23_Tue"
+              "title": "2026-01-05_Mon"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime",
+                "sortOrder": "alphabeticalReverse",
                 "autoReveal": true
               },
               "icon": "lucide-folder-closed",
@@ -75,6 +75,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "119c710730779f65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "381f15f3e5ade8b8",
+            "type": "leaf",
+            "state": {
+              "type": "journal-calendar",
+              "state": {},
+              "icon": "calendar-days",
+              "title": "Calendar"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ShipsLog/2025-12-23_Tue.md",
+                "file": "ShipsLog/2026-01-05_Mon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-12-23_Tue"
+              "title": "Backlinks for 2026-01-05_Mon"
             }
           },
           {
@@ -113,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ShipsLog/2025-12-23_Tue.md",
+                "file": "ShipsLog/2026-01-05_Mon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-12-23_Tue"
+              "title": "Outgoing links from 2026-01-05_Mon"
             }
           },
           {
@@ -142,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ShipsLog/2025-12-23_Tue.md",
+                "file": "ShipsLog/2026-01-05_Mon.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-12-23_Tue"
+              "title": "Outline of 2026-01-05_Mon"
             }
           }
         ]
@@ -173,13 +189,17 @@
   "active": "7d0f4b88e6095955",
   "lastOpenFiles": [
     "00_Dashboard.md",
+    "README.md",
+    "Library/Recurring Things.md",
+    "ShipsLog/2026-01-05_Mon.md",
     "ShipsLog/2025-12-23_Tue.md",
-    "ShipsLog/Recurring Things.md",
+    "ShipsLog/2025-12-22_Mon.md",
+    "ShipsLog/2026-01-06_Tue.md",
+    "_templates/daily.md",
+    "_templates/library.md",
     "ShipsLog/index.base",
     "Library/Public House Coworking.md",
     "Library/Git PreCommit Hook.md",
-    "README.md",
-    "ShipsLog/2025-12-22_Mon.md",
     "tmp/ShipsLog/2025-12-23_Tue.md",
     "tmp/00_Dashboard.md",
     "tmp/README.md",
@@ -203,11 +223,8 @@
     "_templates/project.md",
     "Library/Setting up VertexAI in a new folder.md",
     "Library/Janice Weekly.md",
-    "_templates/library.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "_templates/daily.md",
-    "().md",
-    "_templates/Daily.md"
+    "().md"
   ]
 }
